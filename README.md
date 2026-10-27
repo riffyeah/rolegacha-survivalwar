@@ -1,2 +1,2 @@
-# rolegacha-survivalwar
-permainan gacha role karakter dan bertarung melawan musuh. game simple.
+# role-and-fight-byriff
+game sedang maintenance
